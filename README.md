@@ -1,6 +1,7 @@
 # AI Resume Category Predictor
 
-![App Interface](app_screenshot.PNG)
+![App Interface](app_screenshot1.PNG)
+![App Interface](app_screenshot2.PNG)
 
 An end-to-end NLP application that automatically categorizes resumes into 24 job sectors. Built with Python and deployed via a Gradio web interface.
 
