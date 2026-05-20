@@ -3,7 +3,7 @@
 ## Single Resume
 ![App Interface](app_screenshot1.PNG)
 
-## Batch Resume
+## Batch Resume Processing and Sort
 ![App Interface](app_screenshot2.PNG)
 
 An end-to-end NLP application that automatically categorizes resumes into 24 job sectors. Built with Python and deployed via a Gradio web interface.
